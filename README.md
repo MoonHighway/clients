@@ -16,10 +16,11 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 ## Server Examples
 
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
-- [Pet Library](https://github.com/graphqlworkshop/pet-library)
+- [Pet Library](https://github.com/moonhighway/pet-library)
 - [Data Sources Docs](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
 - [Resolver Best Practices - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 - [Mutation Pet Library](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
+- [GraphQL.org Best Practices](https://graphql.org/learn/best-practices/)
 
 #### Simple Requests
 

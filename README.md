@@ -40,9 +40,11 @@ curl -X POST \
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Snowtooth UI Finished Files](https://github.com/graphqlworkshop/snowtooth-ui/tree/complete)
 
-### Caching
+### Caching & Tooling
 
 - [Caching, Client Side Schema](https://github.com/eveporcello/pet-library-client)
+- [Apollo Tooling, Codegen Deprecated](https://github.com/apollographql/apollo-tooling)
+- [GraphQL Code Generator](https://www.graphql-code-generator.com)
 
 
 ### Tutorials and Resources
